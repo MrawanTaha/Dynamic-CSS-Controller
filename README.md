@@ -61,6 +61,3 @@ You can open `index.html` in any modern web browser to see the project in action
 ## 📄 License
 
 This project is open-source and free to use for educational purposes.
-
-```# Dynamic-CSS-Controller
-# Dynamic-CSS-Controller
