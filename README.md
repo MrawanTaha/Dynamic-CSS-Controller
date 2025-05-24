@@ -39,7 +39,7 @@ You can open `index.html` in any modern web browser to see the project in action
 
 ## 📷 Preview
 
-![Preview Screenshot](Preview.png)
+![Preview Screenshot](preview.png)
 
 ## ✅ Requirements
 
